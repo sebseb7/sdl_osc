@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout version="13" mode="1" orientation="vertical">
+  <tabpage name="MQ==" scalef="0.0" scalet="1.0">
+    <control name="cV8xX3RvZ2dsZQ==" x="618" y="210" w="50" h="806" color="green" scalef="0.0" scalet="1.0" type="multitoggle" number_x="1" number_y="16" ex_mode="false" local_off="true"/>
+    <control name="cV8xX2Vu" x="668" y="10" w="50" h="50" color="red" scalef="0.0" scalet="1.0" type="multitoggle" number_x="1" number_y="1" ex_mode="false" local_off="true"/>
+    <control name="cV8xX2xhYmVs" x="668" y="60" w="50" h="150" color="orange" type="labelv" text="cV8xX2xhYmVs" size="12" background="false" outline="true"/>
+    <control name="cV8xX2xfMV8x" x="673" y="215" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfMl8x" x="673" y="265" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfM18x" x="673" y="315" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfNF8x" x="673" y="365" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfNV8x" x="673" y="415" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfNl8x" x="673" y="465" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfN18x" x="673" y="515" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfOF8x" x="673" y="565" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfOV8x" x="673" y="615" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfMTBfMQ==" x="673" y="665" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfMTFfMQ==" x="673" y="715" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfMTJfMQ==" x="673" y="765" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfMTNfMQ==" x="673" y="815" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfMTRfMQ==" x="673" y="865" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfMTVfMQ==" x="673" y="915" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfMTZfMQ==" x="673" y="965" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfMV8y" x="673" y="229" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfMl8y" x="673" y="279" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfM18y" x="673" y="329" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfNF8y" x="673" y="379" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfNV8y" x="673" y="429" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfNl8y" x="673" y="479" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfN18y" x="673" y="529" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfOF8y" x="673" y="579" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfOV8y" x="673" y="629" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfMTBfMg==" x="673" y="679" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfMTFfMg==" x="673" y="729" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfMTJfMg==" x="673" y="779" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfMTNfMg==" x="673" y="829" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfMTRfMTI=" x="673" y="879" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfMTVfMg==" x="673" y="929" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfMTZfMg==" x="673" y="979" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfMV8z" x="673" y="244" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfMl8z" x="673" y="294" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfM18z" x="673" y="344" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfNF8z" x="673" y="394" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfNV8z" x="673" y="444" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfNl8z" x="673" y="494" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfN18z" x="673" y="544" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfOF8z" x="673" y="594" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfOV8z" x="673" y="644" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfMTBfMw==" x="673" y="694" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfMTFfMw==" x="673" y="744" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfMTJfMw==" x="673" y="794" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfMTNfMw==" x="673" y="844" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfMTRfMw==" x="673" y="894" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfMTVfMw==" x="673" y="944" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xX2xfMTZfMw==" x="673" y="994" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8xXzFfbGFiZWw=" x="693" y="210" w="25" h="50" color="red" type="labelv" text="MV9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV8xXzJfbGFiZWw=" x="693" y="260" w="25" h="50" color="red" type="labelv" text="Ml9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV8xXzNfbGFiZWw=" x="693" y="310" w="25" h="50" color="red" type="labelv" text="M19sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV8xXzRfbGFiZWw=" x="693" y="360" w="25" h="50" color="red" type="labelv" text="NF9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV8xXzVfbGFiZWw=" x="693" y="410" w="25" h="50" color="red" type="labelv" text="NV9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV8xXzZfbGFiZWw=" x="693" y="460" w="25" h="50" color="red" type="labelv" text="Nl9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV8xXzdfbGFiZWw=" x="693" y="510" w="25" h="50" color="red" type="labelv" text="N19sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV8xXzhfbGFiZWw=" x="693" y="560" w="25" h="50" color="red" type="labelv" text="OF9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV8xXzlfbGFiZWw=" x="693" y="610" w="25" h="50" color="red" type="labelv" text="OV9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV8xXzEwX2xhYmVs" x="693" y="660" w="25" h="50" color="red" type="labelv" text="MTBfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV8xXzExX2xhYmVs" x="693" y="710" w="25" h="50" color="red" type="labelv" text="MTFfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV8xXzEyX2xhYmVs" x="693" y="760" w="25" h="50" color="red" type="labelv" text="MTJfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV8xXzE0X2xhYmVs" x="693" y="860" w="25" h="50" color="red" type="labelv" text="MTRfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV8xXzEzX2xhYmVs" x="693" y="810" w="25" h="50" color="red" type="labelv" text="MTNfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV8xXzE1X2xhYmVs" x="693" y="910" w="25" h="50" color="red" type="labelv" text="MTVfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV8xXzE2X2xhYmVs" x="693" y="960" w="25" h="50" color="red" type="labelv" text="MTZfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV8xX2N0cmw=" x="619" y="10" w="50" h="200" color="yellow" scalef="0.0" scalet="1.0" type="multitoggle" number_x="1" number_y="4" ex_mode="false" local_off="true"/>
+    <control name="bGFiZWwzMQ==" x="631" y="16" w="25" h="44" color="red" type="labelv" text="UGxheQ==" size="14" background="false" outline="false"/>
+    <control name="bGFiZWwzNQ==" x="681" y="14" w="25" h="44" color="blue" type="labelv" text="T04=" size="14" background="false" outline="false"/>
+    <control name="cV8yX3RvZ2dsZQ==" x="508" y="210" w="50" h="806" color="green" scalef="0.0" scalet="1.0" type="multitoggle" number_x="1" number_y="16" ex_mode="false" local_off="true"/>
+    <control name="cV8yX2Vu" x="558" y="10" w="50" h="50" color="red" scalef="0.0" scalet="1.0" type="multitoggle" number_x="1" number_y="1" ex_mode="false" local_off="true"/>
+    <control name="cV8yX2xhYmVs" x="558" y="60" w="50" h="150" color="orange" type="labelv" text="cV8xX2xhYmVs" size="12" background="false" outline="true"/>
+    <control name="cV8yX2xfMV8x" x="563" y="215" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfMl8x" x="563" y="265" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfM18x" x="563" y="315" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfNF8x" x="563" y="365" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfNV8x" x="563" y="415" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfNl8x" x="563" y="465" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfN18x" x="563" y="515" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfOF8x" x="563" y="565" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfOV8x" x="563" y="615" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfMTBfMQ==" x="563" y="665" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfMTFfMQ==" x="563" y="715" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfMTJfMQ==" x="563" y="765" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfMTNfMQ==" x="563" y="815" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfMTRfMQ==" x="563" y="865" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfMTVfMQ==" x="563" y="915" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfMTZfMQ==" x="563" y="965" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfMV8y" x="563" y="229" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfMl8y" x="563" y="279" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfM18y" x="563" y="329" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfNF8y" x="563" y="379" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfNV8y" x="563" y="429" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfNl8y" x="563" y="479" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfN18y" x="563" y="529" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfOF8y" x="563" y="579" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfOV8y" x="563" y="629" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfMTBfMg==" x="563" y="679" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfMTFfMg==" x="563" y="729" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfMTJfMg==" x="563" y="779" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfMTNfMg==" x="563" y="829" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfMTRfMTI=" x="563" y="879" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfMTVfMg==" x="563" y="929" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfMTZfMg==" x="563" y="979" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfMV8z" x="563" y="244" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfMl8z" x="563" y="294" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfM18z" x="563" y="344" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfNF8z" x="563" y="394" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfNV8z" x="563" y="444" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfNl8z" x="563" y="494" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfN18z" x="563" y="544" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfOF8z" x="563" y="594" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfOV8z" x="563" y="644" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfMTBfMw==" x="563" y="694" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfMTFfMw==" x="563" y="744" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfMTJfMw==" x="563" y="794" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfMTNfMw==" x="563" y="844" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfMTRfMw==" x="563" y="894" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfMTVfMw==" x="563" y="944" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yX2xfMTZfMw==" x="563" y="994" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8yXzFfbGFiZWw=" x="583" y="210" w="25" h="50" color="red" type="labelv" text="MV9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV8yXzJfbGFiZWw=" x="583" y="260" w="25" h="50" color="red" type="labelv" text="Ml9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV8yXzNfbGFiZWw=" x="583" y="310" w="25" h="50" color="red" type="labelv" text="M19sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV8yXzRfbGFiZWw=" x="583" y="360" w="25" h="50" color="red" type="labelv" text="NF9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV8yXzVfbGFiZWw=" x="583" y="410" w="25" h="50" color="red" type="labelv" text="NV9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV8yXzZfbGFiZWw=" x="583" y="460" w="25" h="50" color="red" type="labelv" text="Nl9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV8yXzdfbGFiZWw=" x="583" y="510" w="25" h="50" color="red" type="labelv" text="N19sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV8yXzhfbGFiZWw=" x="583" y="560" w="25" h="50" color="red" type="labelv" text="OF9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV8yXzlfbGFiZWw=" x="583" y="610" w="25" h="50" color="red" type="labelv" text="OV9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV8yXzEwX2xhYmVs" x="583" y="660" w="25" h="50" color="red" type="labelv" text="MTBfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV8yXzExX2xhYmVs" x="583" y="710" w="25" h="50" color="red" type="labelv" text="MTFfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV8yXzEyX2xhYmVs" x="583" y="760" w="25" h="50" color="red" type="labelv" text="MTJfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV8yXzE0X2xhYmVs" x="583" y="860" w="25" h="50" color="red" type="labelv" text="MTRfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV8yXzEzX2xhYmVs" x="583" y="810" w="25" h="50" color="red" type="labelv" text="MTNfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV8yXzE1X2xhYmVs" x="583" y="910" w="25" h="50" color="red" type="labelv" text="MTVfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV8yXzE2X2xhYmVs" x="583" y="960" w="25" h="50" color="red" type="labelv" text="MTZfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV8yX2N0cmw=" x="509" y="10" w="50" h="200" color="yellow" scalef="0.0" scalet="1.0" type="multitoggle" number_x="1" number_y="4" ex_mode="false" local_off="true"/>
+    <control name="bGFiZWwzMQ==" x="521" y="16" w="25" h="44" color="red" type="labelv" text="UGxheQ==" size="14" background="false" outline="false"/>
+    <control name="bGFiZWwzNQ==" x="571" y="14" w="25" h="44" color="blue" type="labelv" text="T04=" size="14" background="false" outline="false"/>
+    <control name="cV8zX3RvZ2dsZQ==" x="398" y="210" w="50" h="806" color="green" scalef="0.0" scalet="1.0" type="multitoggle" number_x="1" number_y="16" ex_mode="false" local_off="true"/>
+    <control name="cV8zX2Vu" x="448" y="10" w="50" h="50" color="red" scalef="0.0" scalet="1.0" type="multitoggle" number_x="1" number_y="1" ex_mode="false" local_off="true"/>
+    <control name="cV8zX2xhYmVs" x="448" y="60" w="50" h="150" color="orange" type="labelv" text="cV8xX2xhYmVs" size="12" background="false" outline="true"/>
+    <control name="cV8zX2xfMV8x" x="453" y="215" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfMl8x" x="453" y="265" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfM18x" x="453" y="315" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfNF8x" x="453" y="365" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfNV8x" x="453" y="415" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfNl8x" x="453" y="465" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfN18x" x="453" y="515" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfOF8x" x="453" y="565" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfOV8x" x="453" y="615" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfMTBfMQ==" x="453" y="665" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfMTFfMQ==" x="453" y="715" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfMTJfMQ==" x="453" y="765" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfMTNfMQ==" x="453" y="815" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfMTRfMQ==" x="453" y="865" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfMTVfMQ==" x="453" y="915" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfMTZfMQ==" x="453" y="965" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfMV8y" x="453" y="229" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfMl8y" x="453" y="279" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfM18y" x="453" y="329" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfNF8y" x="453" y="379" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfNV8y" x="453" y="429" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfNl8y" x="453" y="479" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfN18y" x="453" y="529" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfOF8y" x="453" y="579" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfOV8y" x="453" y="629" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfMTBfMg==" x="453" y="679" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfMTFfMg==" x="453" y="729" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfMTJfMg==" x="453" y="779" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfMTNfMg==" x="453" y="829" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfMTRfMTI=" x="453" y="879" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfMTVfMg==" x="453" y="929" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfMTZfMg==" x="453" y="979" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfMV8z" x="453" y="244" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfMl8z" x="453" y="294" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfM18z" x="453" y="344" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfNF8z" x="453" y="394" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfNV8z" x="453" y="444" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfNl8z" x="453" y="494" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfN18z" x="453" y="544" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfOF8z" x="453" y="594" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfOV8z" x="453" y="644" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfMTBfMw==" x="453" y="694" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfMTFfMw==" x="453" y="744" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfMTJfMw==" x="453" y="794" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfMTNfMw==" x="453" y="844" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfMTRfMw==" x="453" y="894" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfMTVfMw==" x="453" y="944" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zX2xfMTZfMw==" x="453" y="994" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV8zXzFfbGFiZWw=" x="473" y="210" w="25" h="50" color="red" type="labelv" text="MV9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV8zXzJfbGFiZWw=" x="473" y="260" w="25" h="50" color="red" type="labelv" text="Ml9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV8zXzNfbGFiZWw=" x="473" y="310" w="25" h="50" color="red" type="labelv" text="M19sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV8zXzRfbGFiZWw=" x="473" y="360" w="25" h="50" color="red" type="labelv" text="NF9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV8zXzVfbGFiZWw=" x="473" y="410" w="25" h="50" color="red" type="labelv" text="NV9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV8zXzZfbGFiZWw=" x="473" y="460" w="25" h="50" color="red" type="labelv" text="Nl9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV8zXzdfbGFiZWw=" x="473" y="510" w="25" h="50" color="red" type="labelv" text="N19sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV8zXzhfbGFiZWw=" x="473" y="560" w="25" h="50" color="red" type="labelv" text="OF9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV8zXzlfbGFiZWw=" x="473" y="610" w="25" h="50" color="red" type="labelv" text="OV9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV8zXzEwX2xhYmVs" x="473" y="660" w="25" h="50" color="red" type="labelv" text="MTBfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV8zXzExX2xhYmVs" x="473" y="710" w="25" h="50" color="red" type="labelv" text="MTFfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV8zXzEyX2xhYmVs" x="473" y="760" w="25" h="50" color="red" type="labelv" text="MTJfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV8zXzE0X2xhYmVs" x="473" y="860" w="25" h="50" color="red" type="labelv" text="MTRfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV8zXzEzX2xhYmVs" x="473" y="810" w="25" h="50" color="red" type="labelv" text="MTNfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV8zXzE1X2xhYmVs" x="473" y="910" w="25" h="50" color="red" type="labelv" text="MTVfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV8zXzE2X2xhYmVs" x="473" y="960" w="25" h="50" color="red" type="labelv" text="MTZfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV8zX2N0cmw=" x="399" y="10" w="50" h="200" color="yellow" scalef="0.0" scalet="1.0" type="multitoggle" number_x="1" number_y="4" ex_mode="false" local_off="true"/>
+    <control name="bGFiZWwzMQ==" x="411" y="16" w="25" h="44" color="red" type="labelv" text="UGxheQ==" size="14" background="false" outline="false"/>
+    <control name="bGFiZWwzNQ==" x="461" y="14" w="25" h="44" color="blue" type="labelv" text="T04=" size="14" background="false" outline="false"/>
+    <control name="cV80X3RvZ2dsZQ==" x="288" y="210" w="50" h="806" color="green" scalef="0.0" scalet="1.0" type="multitoggle" number_x="1" number_y="16" ex_mode="false" local_off="true"/>
+    <control name="cV80X2Vu" x="338" y="10" w="50" h="50" color="red" scalef="0.0" scalet="1.0" type="multitoggle" number_x="1" number_y="1" ex_mode="false" local_off="true"/>
+    <control name="cV80X2xhYmVs" x="338" y="60" w="50" h="150" color="orange" type="labelv" text="cV8xX2xhYmVs" size="12" background="false" outline="true"/>
+    <control name="cV80X2xfMV8x" x="343" y="215" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfMl8x" x="343" y="265" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfM18x" x="343" y="315" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfNF8x" x="343" y="365" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfNV8x" x="343" y="415" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfNl8x" x="343" y="465" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfN18x" x="343" y="515" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfOF8x" x="343" y="565" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfOV8x" x="343" y="615" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfMTBfMQ==" x="343" y="665" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfMTFfMQ==" x="343" y="715" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfMTJfMQ==" x="343" y="765" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfMTNfMQ==" x="343" y="815" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfMTRfMQ==" x="343" y="865" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfMTVfMQ==" x="343" y="915" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfMTZfMQ==" x="343" y="965" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfMV8y" x="343" y="229" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfMl8y" x="343" y="279" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfM18y" x="343" y="329" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfNF8y" x="343" y="379" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfNV8y" x="343" y="429" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfNl8y" x="343" y="479" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfN18y" x="343" y="529" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfOF8y" x="343" y="579" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfOV8y" x="343" y="629" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfMTBfMg==" x="343" y="679" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfMTFfMg==" x="343" y="729" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfMTJfMg==" x="343" y="779" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfMTNfMg==" x="343" y="829" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfMTRfMTI=" x="343" y="879" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfMTVfMg==" x="343" y="929" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfMTZfMg==" x="343" y="979" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfMV8z" x="343" y="244" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfMl8z" x="343" y="294" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfM18z" x="343" y="344" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfNF8z" x="343" y="394" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfNV8z" x="343" y="444" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfNl8z" x="343" y="494" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfN18z" x="343" y="544" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfOF8z" x="343" y="594" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfOV8z" x="343" y="644" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfMTBfMw==" x="343" y="694" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfMTFfMw==" x="343" y="744" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfMTJfMw==" x="343" y="794" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfMTNfMw==" x="343" y="844" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfMTRfMw==" x="343" y="894" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfMTVfMw==" x="343" y="944" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80X2xfMTZfMw==" x="343" y="994" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV80XzFfbGFiZWw=" x="363" y="210" w="25" h="50" color="red" type="labelv" text="MV9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV80XzJfbGFiZWw=" x="363" y="260" w="25" h="50" color="red" type="labelv" text="Ml9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV80XzNfbGFiZWw=" x="363" y="310" w="25" h="50" color="red" type="labelv" text="M19sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV80XzRfbGFiZWw=" x="363" y="360" w="25" h="50" color="red" type="labelv" text="NF9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV80XzVfbGFiZWw=" x="363" y="410" w="25" h="50" color="red" type="labelv" text="NV9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV80XzZfbGFiZWw=" x="363" y="460" w="25" h="50" color="red" type="labelv" text="Nl9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV80XzdfbGFiZWw=" x="363" y="510" w="25" h="50" color="red" type="labelv" text="N19sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV80XzhfbGFiZWw=" x="363" y="560" w="25" h="50" color="red" type="labelv" text="OF9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV80XzlfbGFiZWw=" x="363" y="610" w="25" h="50" color="red" type="labelv" text="OV9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV80XzEwX2xhYmVs" x="363" y="660" w="25" h="50" color="red" type="labelv" text="MTBfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV80XzExX2xhYmVs" x="363" y="710" w="25" h="50" color="red" type="labelv" text="MTFfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV80XzEyX2xhYmVs" x="363" y="760" w="25" h="50" color="red" type="labelv" text="MTJfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV80XzE0X2xhYmVs" x="363" y="860" w="25" h="50" color="red" type="labelv" text="MTRfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV80XzEzX2xhYmVs" x="363" y="810" w="25" h="50" color="red" type="labelv" text="MTNfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV80XzE1X2xhYmVs" x="363" y="910" w="25" h="50" color="red" type="labelv" text="MTVfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV80XzE2X2xhYmVs" x="363" y="960" w="25" h="50" color="red" type="labelv" text="MTZfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV80X2N0cmw=" x="289" y="10" w="50" h="200" color="yellow" scalef="0.0" scalet="1.0" type="multitoggle" number_x="1" number_y="4" ex_mode="false" local_off="true"/>
+    <control name="bGFiZWwzMQ==" x="301" y="16" w="25" h="44" color="red" type="labelv" text="UGxheQ==" size="14" background="false" outline="false"/>
+    <control name="bGFiZWwzNQ==" x="351" y="14" w="25" h="44" color="blue" type="labelv" text="T04=" size="14" background="false" outline="false"/>
+    <control name="cV81X3RvZ2dsZQ==" x="178" y="210" w="50" h="806" color="green" scalef="0.0" scalet="1.0" type="multitoggle" number_x="1" number_y="16" ex_mode="false" local_off="true"/>
+    <control name="cV81X2Vu" x="228" y="10" w="50" h="50" color="red" scalef="0.0" scalet="1.0" type="multitoggle" number_x="1" number_y="1" ex_mode="false" local_off="true"/>
+    <control name="cV81X2xhYmVs" x="228" y="60" w="50" h="150" color="orange" type="labelv" text="cV8xX2xhYmVs" size="12" background="false" outline="true"/>
+    <control name="cV81X2xfMV8x" x="233" y="215" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfMl8x" x="233" y="265" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfM18x" x="233" y="315" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfNF8x" x="233" y="365" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfNV8x" x="233" y="415" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfNl8x" x="233" y="465" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfN18x" x="233" y="515" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfOF8x" x="233" y="565" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfOV8x" x="233" y="615" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfMTBfMQ==" x="233" y="665" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfMTFfMQ==" x="233" y="715" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfMTJfMQ==" x="233" y="765" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfMTNfMQ==" x="233" y="815" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfMTRfMQ==" x="233" y="865" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfMTVfMQ==" x="233" y="915" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfMTZfMQ==" x="233" y="965" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfMV8y" x="233" y="229" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfMl8y" x="233" y="279" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfM18y" x="233" y="329" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfNF8y" x="233" y="379" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfNV8y" x="233" y="429" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfNl8y" x="233" y="479" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfN18y" x="233" y="529" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfOF8y" x="233" y="579" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfOV8y" x="233" y="629" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfMTBfMg==" x="233" y="679" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfMTFfMg==" x="233" y="729" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfMTJfMg==" x="233" y="779" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfMTNfMg==" x="233" y="829" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfMTRfMTI=" x="233" y="879" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfMTVfMg==" x="233" y="929" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfMTZfMg==" x="233" y="979" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfMV8z" x="233" y="244" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfMl8z" x="233" y="294" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfM18z" x="233" y="344" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfNF8z" x="233" y="394" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfNV8z" x="233" y="444" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfNl8z" x="233" y="494" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfN18z" x="233" y="544" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfOF8z" x="233" y="594" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfOV8z" x="233" y="644" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfMTBfMw==" x="233" y="694" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfMTFfMw==" x="233" y="744" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfMTJfMw==" x="233" y="794" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfMTNfMw==" x="233" y="844" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfMTRfMw==" x="233" y="894" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfMTVfMw==" x="233" y="944" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81X2xfMTZfMw==" x="233" y="994" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV81XzFfbGFiZWw=" x="253" y="210" w="25" h="50" color="red" type="labelv" text="MV9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV81XzJfbGFiZWw=" x="253" y="260" w="25" h="50" color="red" type="labelv" text="Ml9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV81XzNfbGFiZWw=" x="253" y="310" w="25" h="50" color="red" type="labelv" text="M19sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV81XzRfbGFiZWw=" x="253" y="360" w="25" h="50" color="red" type="labelv" text="NF9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV81XzVfbGFiZWw=" x="253" y="410" w="25" h="50" color="red" type="labelv" text="NV9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV81XzZfbGFiZWw=" x="253" y="460" w="25" h="50" color="red" type="labelv" text="Nl9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV81XzdfbGFiZWw=" x="253" y="510" w="25" h="50" color="red" type="labelv" text="N19sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV81XzhfbGFiZWw=" x="253" y="560" w="25" h="50" color="red" type="labelv" text="OF9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV81XzlfbGFiZWw=" x="253" y="610" w="25" h="50" color="red" type="labelv" text="OV9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV81XzEwX2xhYmVs" x="253" y="660" w="25" h="50" color="red" type="labelv" text="MTBfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV81XzExX2xhYmVs" x="253" y="710" w="25" h="50" color="red" type="labelv" text="MTFfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV81XzEyX2xhYmVs" x="253" y="760" w="25" h="50" color="red" type="labelv" text="MTJfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV81XzE0X2xhYmVs" x="253" y="860" w="25" h="50" color="red" type="labelv" text="MTRfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV81XzEzX2xhYmVs" x="253" y="810" w="25" h="50" color="red" type="labelv" text="MTNfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV81XzE1X2xhYmVs" x="253" y="910" w="25" h="50" color="red" type="labelv" text="MTVfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV81XzE2X2xhYmVs" x="253" y="960" w="25" h="50" color="red" type="labelv" text="MTZfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV81X2N0cmw=" x="179" y="10" w="50" h="200" color="yellow" scalef="0.0" scalet="1.0" type="multitoggle" number_x="1" number_y="4" ex_mode="false" local_off="true"/>
+    <control name="bGFiZWwzMQ==" x="191" y="16" w="25" h="44" color="red" type="labelv" text="UGxheQ==" size="14" background="false" outline="false"/>
+    <control name="bGFiZWwzNQ==" x="241" y="14" w="25" h="44" color="blue" type="labelv" text="T04=" size="14" background="false" outline="false"/>
+    <control name="cV82X3RvZ2dsZQ==" x="68" y="210" w="50" h="806" color="green" scalef="0.0" scalet="1.0" type="multitoggle" number_x="1" number_y="16" ex_mode="false" local_off="true"/>
+    <control name="cV82X2Vu" x="118" y="10" w="50" h="50" color="red" scalef="0.0" scalet="1.0" type="multitoggle" number_x="1" number_y="1" ex_mode="false" local_off="true"/>
+    <control name="cV82X2xhYmVs" x="118" y="60" w="50" h="150" color="orange" type="labelv" text="cV8xX2xhYmVs" size="12" background="false" outline="true"/>
+    <control name="cV82X2xfMV8x" x="123" y="215" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfMl8x" x="123" y="265" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfM18x" x="123" y="315" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfNF8x" x="123" y="365" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfNV8x" x="123" y="415" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfNl8x" x="123" y="465" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfN18x" x="123" y="515" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfOF8x" x="123" y="565" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfOV8x" x="123" y="615" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfMTBfMQ==" x="123" y="665" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfMTFfMQ==" x="123" y="715" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfMTJfMQ==" x="123" y="765" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfMTNfMQ==" x="123" y="815" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfMTRfMQ==" x="123" y="865" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfMTVfMQ==" x="123" y="915" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfMTZfMQ==" x="123" y="965" w="16" h="16" color="yellow" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfMV8y" x="123" y="229" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfMl8y" x="123" y="279" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfM18y" x="123" y="329" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfNF8y" x="123" y="379" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfNV8y" x="123" y="429" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfNl8y" x="123" y="479" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfN18y" x="123" y="529" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfOF8y" x="123" y="579" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfOV8y" x="123" y="629" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfMTBfMg==" x="123" y="679" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfMTFfMg==" x="123" y="729" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfMTJfMg==" x="123" y="779" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfMTNfMg==" x="123" y="829" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfMTRfMTI=" x="123" y="879" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfMTVfMg==" x="123" y="929" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfMTZfMg==" x="123" y="979" w="16" h="16" color="green" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfMV8z" x="123" y="244" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfMl8z" x="123" y="294" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfM18z" x="123" y="344" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfNF8z" x="123" y="394" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfNV8z" x="123" y="444" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfNl8z" x="123" y="494" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfN18z" x="123" y="544" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfOF8z" x="123" y="594" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfOV8z" x="123" y="644" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfMTBfMw==" x="123" y="694" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfMTFfMw==" x="123" y="744" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfMTJfMw==" x="123" y="794" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfMTNfMw==" x="123" y="844" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfMTRfMw==" x="123" y="894" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfMTVfMw==" x="123" y="944" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82X2xfMTZfMw==" x="123" y="994" w="16" h="16" color="red" scalef="0.0" scalet="1.0" type="led"/>
+    <control name="cV82XzFfbGFiZWw=" x="143" y="210" w="25" h="50" color="red" type="labelv" text="MV9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV82XzJfbGFiZWw=" x="143" y="260" w="25" h="50" color="red" type="labelv" text="Ml9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV82XzNfbGFiZWw=" x="143" y="310" w="25" h="50" color="red" type="labelv" text="M19sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV82XzRfbGFiZWw=" x="143" y="360" w="25" h="50" color="red" type="labelv" text="NF9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV82XzVfbGFiZWw=" x="143" y="410" w="25" h="50" color="red" type="labelv" text="NV9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV82XzZfbGFiZWw=" x="143" y="460" w="25" h="50" color="red" type="labelv" text="Nl9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV82XzdfbGFiZWw=" x="143" y="510" w="25" h="50" color="red" type="labelv" text="N19sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV82XzhfbGFiZWw=" x="143" y="560" w="25" h="50" color="red" type="labelv" text="OF9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV82XzlfbGFiZWw=" x="143" y="610" w="25" h="50" color="red" type="labelv" text="OV9sYWJlbA==" size="10" background="false" outline="false"/>
+    <control name="cV82XzEwX2xhYmVs" x="143" y="660" w="25" h="50" color="red" type="labelv" text="MTBfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV82XzExX2xhYmVs" x="143" y="710" w="25" h="50" color="red" type="labelv" text="MTFfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV82XzEyX2xhYmVs" x="143" y="760" w="25" h="50" color="red" type="labelv" text="MTJfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV82XzE0X2xhYmVs" x="143" y="860" w="25" h="50" color="red" type="labelv" text="MTRfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV82XzEzX2xhYmVs" x="143" y="810" w="25" h="50" color="red" type="labelv" text="MTNfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV82XzE1X2xhYmVs" x="143" y="910" w="25" h="50" color="red" type="labelv" text="MTVfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV82XzE2X2xhYmVs" x="143" y="960" w="25" h="50" color="red" type="labelv" text="MTZfbGFiZWw=" size="10" background="false" outline="false"/>
+    <control name="cV82X2N0cmw=" x="69" y="10" w="50" h="200" color="yellow" scalef="0.0" scalet="1.0" type="multitoggle" number_x="1" number_y="4" ex_mode="false" local_off="true"/>
+    <control name="bGFiZWwzMQ==" x="81" y="16" w="25" h="44" color="red" type="labelv" text="UGxheQ==" size="14" background="false" outline="false"/>
+    <control name="bGFiZWwzNQ==" x="131" y="14" w="25" h="44" color="blue" type="labelv" text="T04=" size="14" background="false" outline="false"/>
+    <control name="cGFnZWZsaXA=" x="11" y="613" w="50" h="403" color="blue" scalef="0.0" scalet="1.0" type="multitoggle" number_x="1" number_y="8" ex_mode="false" local_off="true"/>
+    <control name="bGFiZWwzNDQ=" x="733" y="566" w="28" h="80" color="red" type="labelv" text="c2V0dXA=" size="14" background="false" outline="false"/>
+    <control name="bGFiZWwzNDU=" x="733" y="319" w="28" h="80" color="red" type="labelv" text="bWFudWFs" size="14" background="false" outline="false"/>
+    <control name="bGFiZWwzNTA=" x="733" y="81" w="28" h="80" color="red" type="labelv" text="cXVldWU=" size="14" background="false" outline="false"/>
+    <control name="YmF0dGVyeTI=" x="16" y="17" w="25" h="80" color="red" type="batteryv" size="14" background="true" outline="true"/>
+    <control name="bGFiZWw1MzM=" x="631" y="161" w="25" h="44" color="blue" type="labelv" text="UmVt" size="14" background="false" outline="false"/>
+    <control name="bGFiZWw1MzQ=" x="411" y="161" w="25" h="44" color="blue" type="labelv" text="UmVt" size="14" background="false" outline="false"/>
+    <control name="bGFiZWw1MzU=" x="521" y="161" w="25" h="44" color="blue" type="labelv" text="UmVt" size="14" background="false" outline="false"/>
+    <control name="bGFiZWw1MzY=" x="301" y="161" w="25" h="44" color="blue" type="labelv" text="UmVt" size="14" background="false" outline="false"/>
+    <control name="bGFiZWw1Mzc=" x="191" y="161" w="25" h="44" color="blue" type="labelv" text="UmVt" size="14" background="false" outline="false"/>
+    <control name="bGFiZWw1Mzg=" x="81" y="161" w="25" h="44" color="blue" type="labelv" text="UmVt" size="14" background="false" outline="false"/>
+    <control name="bGFiZWw3" x="734" y="807" w="28" h="80" color="red" type="labelv" text="Y3VzdG9t" size="14" background="false" outline="false"/>
+  </tabpage>
+  <tabpage name="Mg==" scalef="0.0" scalet="1.0">
+    <control name="ZmFkZXI=" x="67" y="5" w="244" h="1012" color="yellow" scalef="0.0" scalet="1.0" type="multifaderh" inverted="false" centered="false" number="16"/>
+    <control name="eHkx" x="411" y="10" w="309" h="434" color="red" scalef="0.0" scalet="1.0" type="xy" inverted_x="false" inverted_y="false"/>
+    <control name="bGFiZWwzNDM=" x="733" y="566" w="28" h="80" color="red" type="labelv" text="c2V0dXA=" size="14" background="false" outline="false"/>
+    <control name="bGFiZWwzNDY=" x="733" y="319" w="28" h="80" color="red" type="labelv" text="bWFudWFs" size="14" background="false" outline="false"/>
+    <control name="bGFiZWwzNDk=" x="733" y="81" w="28" h="80" color="red" type="labelv" text="cXVldWU=" size="14" background="false" outline="false"/>
+    <control name="b3ZlcnJpZGU=" x="9" y="5" w="50" h="1012" color="red" scalef="0.0" scalet="1.0" type="multitoggle" number_x="1" number_y="16" ex_mode="false" local_off="true"/>
+    <control name="dmFsXzE=" x="315" y="10" w="25" h="61" color="red" type="labelv" text="LQ==" size="14" background="true" outline="false"/>
+    <control name="dmFsXzI=" x="315" y="72" w="25" h="61" color="red" type="labelv" text="LQ==" size="14" background="true" outline="false"/>
+    <control name="dmFsXzM=" x="315" y="136" w="25" h="61" color="red" type="labelv" text="LQ==" size="14" background="true" outline="false"/>
+    <control name="dmFsXzQ=" x="315" y="198" w="25" h="61" color="red" type="labelv" text="LQ==" size="14" background="true" outline="false"/>
+    <control name="dmFsXzU=" x="315" y="261" w="25" h="61" color="red" type="labelv" text="LQ==" size="14" background="true" outline="false"/>
+    <control name="dmFsXzY=" x="315" y="323" w="25" h="61" color="red" type="labelv" text="LQ==" size="14" background="true" outline="false"/>
+    <control name="dmFsXzc=" x="315" y="386" w="25" h="61" color="red" type="labelv" text="LQ==" size="14" background="true" outline="false"/>
+    <control name="dmFsXzg=" x="315" y="449" w="25" h="61" color="red" type="labelv" text="LQ==" size="14" background="true" outline="false"/>
+    <control name="dmFsXzk=" x="315" y="512" w="25" h="61" color="red" type="labelv" text="LQ==" size="14" background="true" outline="false"/>
+    <control name="dmFsXzEw" x="315" y="575" w="25" h="61" color="red" type="labelv" text="LQ==" size="14" background="true" outline="false"/>
+    <control name="dmFsXzEx" x="315" y="638" w="25" h="61" color="red" type="labelv" text="LQ==" size="14" background="true" outline="false"/>
+    <control name="dmFsXzEy" x="315" y="700" w="25" h="61" color="red" type="labelv" text="LQ==" size="14" background="true" outline="false"/>
+    <control name="dmFsXzEz" x="315" y="763" w="25" h="61" color="red" type="labelv" text="LQ==" size="14" background="true" outline="false"/>
+    <control name="dmFsXzE0" x="315" y="826" w="25" h="61" color="red" type="labelv" text="LQ==" size="14" background="true" outline="false"/>
+    <control name="dmFsXzE1" x="315" y="889" w="25" h="61" color="red" type="labelv" text="LQ==" size="14" background="true" outline="false"/>
+    <control name="dmFsXzE2" x="315" y="952" w="25" h="61" color="red" type="labelv" text="LQ==" size="14" background="true" outline="false"/>
+    <control name="bnJfMQ==" x="341" y="10" w="25" h="61" color="green" type="labelv" text="Y2g=" size="14" background="true" outline="false"/>
+    <control name="bnJfMg==" x="341" y="73" w="25" h="61" color="green" type="labelv" text="Y2g=" size="14" background="true" outline="false"/>
+    <control name="bnJfMw==" x="341" y="136" w="25" h="61" color="green" type="labelv" text="Y2g=" size="14" background="true" outline="false"/>
+    <control name="bnJfNA==" x="341" y="198" w="25" h="61" color="green" type="labelv" text="Y2g=" size="14" background="true" outline="false"/>
+    <control name="bnJfNQ==" x="341" y="261" w="25" h="61" color="green" type="labelv" text="Y2g=" size="14" background="true" outline="false"/>
+    <control name="bnJfNg==" x="341" y="323" w="25" h="61" color="green" type="labelv" text="Y2g=" size="14" background="true" outline="false"/>
+    <control name="bnJfNw==" x="341" y="386" w="25" h="61" color="green" type="labelv" text="Y2g=" size="14" background="true" outline="false"/>
+    <control name="bnJfOA==" x="341" y="449" w="25" h="61" color="green" type="labelv" text="Y2g=" size="14" background="true" outline="false"/>
+    <control name="bnJfOQ==" x="341" y="512" w="25" h="61" color="green" type="labelv" text="Y2g=" size="14" background="true" outline="false"/>
+    <control name="bnJfMTA=" x="341" y="575" w="25" h="61" color="green" type="labelv" text="Y2g=" size="14" background="true" outline="false"/>
+    <control name="bnJfMTE=" x="341" y="638" w="25" h="61" color="green" type="labelv" text="Y2g=" size="14" background="true" outline="false"/>
+    <control name="bnJfMTI=" x="341" y="700" w="25" h="61" color="green" type="labelv" text="Y2g=" size="14" background="true" outline="false"/>
+    <control name="bnJfMTM=" x="341" y="763" w="25" h="61" color="green" type="labelv" text="Y2g=" size="14" background="true" outline="false"/>
+    <control name="bnJfMTQ=" x="341" y="826" w="25" h="61" color="green" type="labelv" text="Y2g=" size="14" background="true" outline="false"/>
+    <control name="bnJfMTU=" x="341" y="889" w="25" h="61" color="green" type="labelv" text="Y2g=" size="14" background="true" outline="false"/>
+    <control name="bnJfMTY=" x="341" y="952" w="25" h="61" color="green" type="labelv" text="Y2g=" size="14" background="true" outline="false"/>
+    <control name="ZW5jb2RlcjE=" x="412" y="796" w="209" h="209" color="red" scalef="0.0" scalet="1.0" type="encoder"/>
+    <control name="ZW5jb2RlcjI=" x="460" y="844" w="112" h="112" color="red" scalef="0.0" scalet="1.0" type="encoder"/>
+    <control name="bGFiZWw2" x="734" y="807" w="28" h="80" color="red" type="labelv" text="Y3VzdG9t" size="14" background="false" outline="false"/>
+  </tabpage>
+  <tabpage name="Mw==" scalef="0.0" scalet="1.0">
+    <control name="bGFiZWwzNDI=" x="733" y="566" w="28" h="80" color="red" type="labelv" text="c2V0dXA=" size="14" background="false" outline="false"/>
+    <control name="bGFiZWwzNDc=" x="733" y="319" w="28" h="80" color="red" type="labelv" text="bWFudWFs" size="14" background="false" outline="false"/>
+    <control name="bGFiZWwzNDg=" x="733" y="81" w="28" h="80" color="red" type="labelv" text="cXVldWU=" size="14" background="false" outline="false"/>
+    <control name="cGFnZXNldHVwMg==" x="11" y="668" w="707" h="348" color="blue" scalef="0.0" scalet="1.0" type="multitoggle" number_x="16" number_y="8" ex_mode="false" local_off="true"/>
+    <control name="cGFnZXNldHVwMQ==" x="11" y="163" w="707" h="348" color="blue" scalef="0.0" scalet="1.0" type="multitoggle" number_x="16" number_y="8" ex_mode="false" local_off="true"/>
+    <control name="bGFiZWxfMQ==" x="671" y="5" w="43" h="154" color="red" type="labelv" text="MQ==" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfMg==" x="627" y="5" w="43" h="154" color="red" type="labelv" text="Mg==" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfMw==" x="584" y="5" w="43" h="154" color="red" type="labelv" text="Mw==" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfNA==" x="540" y="5" w="43" h="154" color="red" type="labelv" text="NA==" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfNQ==" x="496" y="5" w="43" h="154" color="red" type="labelv" text="NQ==" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfNg==" x="452" y="5" w="43" h="154" color="red" type="labelv" text="Ng==" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfNw==" x="408" y="5" w="43" h="154" color="red" type="labelv" text="Nw==" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfOA==" x="365" y="5" w="43" h="154" color="red" type="labelv" text="OA==" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfOQ==" x="321" y="5" w="43" h="154" color="red" type="labelv" text="OQ==" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfMTA=" x="278" y="5" w="43" h="154" color="red" type="labelv" text="MTA=" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfMTU=" x="59" y="5" w="43" h="154" color="red" type="labelv" text="MTU=" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfMTQ=" x="103" y="5" w="43" h="154" color="red" type="labelv" text="MTQ=" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfMTM=" x="146" y="5" w="43" h="154" color="red" type="labelv" text="MTM=" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfMTI=" x="190" y="5" w="43" h="154" color="red" type="labelv" text="MTI=" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfMTE=" x="234" y="5" w="43" h="154" color="red" type="labelv" text="MTE=" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfMTY=" x="15" y="5" w="43" h="154" color="red" type="labelv" text="MTY=" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfMTc=" x="671" y="513" w="43" h="154" color="red" type="labelv" text="MTc=" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfMTg=" x="627" y="513" w="43" h="154" color="red" type="labelv" text="MTg=" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfMTk=" x="584" y="513" w="43" h="154" color="red" type="labelv" text="MTk=" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfMjA=" x="540" y="513" w="43" h="154" color="red" type="labelv" text="MjA=" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfMjE=" x="496" y="513" w="43" h="154" color="red" type="labelv" text="MjE=" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfMjI=" x="452" y="513" w="43" h="154" color="red" type="labelv" text="MjI=" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfMjM=" x="408" y="513" w="43" h="154" color="red" type="labelv" text="MjM=" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfMjQ=" x="365" y="513" w="43" h="154" color="red" type="labelv" text="MjQ=" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfMjU=" x="321" y="513" w="43" h="154" color="red" type="labelv" text="MjU=" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfMjY=" x="278" y="514" w="43" h="154" color="red" type="labelv" text="MjY=" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfMzE=" x="59" y="513" w="43" h="154" color="red" type="labelv" text="MzE=" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfMzA=" x="103" y="513" w="43" h="154" color="red" type="labelv" text="MzA=" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfMjk=" x="146" y="513" w="43" h="154" color="red" type="labelv" text="Mjk=" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfMjg=" x="190" y="513" w="43" h="154" color="red" type="labelv" text="Mjg=" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfMjc=" x="234" y="513" w="43" h="154" color="red" type="labelv" text="Mjc=" size="14" background="true" outline="false"/>
+    <control name="bGFiZWxfMzI=" x="15" y="513" w="43" h="154" color="red" type="labelv" text="MzI=" size="14" background="true" outline="false"/>
+    <control name="bGFiZWw0" x="734" y="807" w="28" h="80" color="red" type="labelv" text="Y3VzdG9t" size="14" background="false" outline="false"/>
+  </tabpage>
+  <tabpage name="NA==" scalef="0.0" scalet="1.0">
+    <control name="bXVsdGlmYWRlcg==" x="110" y="20" w="584" h="981" color="red" scalef="0.0" scalet="1.0" type="multifaderh" inverted="false" centered="true" number="8"/>
+    <control name="bGFiZWwx" x="76" y="23" w="25" h="121" color="red" type="labelv" text="c2luIHNwZWVk" size="14" background="true" outline="false"/>
+    <control name="bGFiZWwx" x="733" y="566" w="28" h="80" color="red" type="labelv" text="c2V0dXA=" size="14" background="false" outline="false"/>
+    <control name="bGFiZWwy" x="733" y="319" w="28" h="80" color="red" type="labelv" text="bWFudWFs" size="14" background="false" outline="false"/>
+    <control name="bGFiZWwz" x="733" y="81" w="28" h="80" color="red" type="labelv" text="cXVldWU=" size="14" background="false" outline="false"/>
+    <control name="bGFiZWw1" x="734" y="807" w="28" h="80" color="red" type="labelv" text="Y3VzdG9t" size="14" background="false" outline="false"/>
+    <control name="bGFiZWw4" x="76" y="144" w="25" h="121" color="red" type="labelv" text="ZmFkZW91dCByZXBlYXQ=" size="14" background="true" outline="false"/>
+    <control name="bGFiZWw5" x="76" y="268" w="25" h="121" color="red" type="labelv" text="cnVubmluZyBzcGVlZA==" size="14" background="true" outline="false"/>
+  </tabpage>
+</layout>
